@@ -8,7 +8,7 @@
 # **Overview:**
 
 * This project will serve as a vault for all content produced (algorythms/ scripts & documentation) in the course of the GQSOFT2 laborarial practice.
-* This project targets the application of <abbr title="Modern Code Rview">MCR</abbr> principles tought in the course of GQSOFT2.
+* This project targets the application of **Modern Code Review** principles tought in the course of GQSOFT2.
 
 <br>
 
