@@ -28,7 +28,7 @@
 
 # [**1. Lab Instructions:**](/docs/pdf/Switch-QA-GQS2-PL-MCReviews.pdf)
 
-# [**2. Prettier**](/docs/aux-docs/prettier.md)
+# [**2. Prettier**](/docs/aux-docs/docs/prettier.md)
 
 <br>
 <p align="center">&lt;&lt;&lt;&copy;<a href="https://github.com/sandroffdsantos" target="blank">Sandro Santos</a>&gt;&gt;&gt;</p>
