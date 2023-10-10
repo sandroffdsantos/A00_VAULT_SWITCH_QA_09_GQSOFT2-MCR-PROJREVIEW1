@@ -30,5 +30,7 @@
 
 # [**2. Prettier**](/docs/aux-docs/docs/prettier.md)
 
+# **3. <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#example-of-a-codeowners-file">CODEOWNERS file</a>**
+
 <br>
 <p align="center">&lt;&lt;&lt;&copy;<a href="https://github.com/sandroffdsantos" target="blank">Sandro Santos</a>&gt;&gt;&gt;</p>
