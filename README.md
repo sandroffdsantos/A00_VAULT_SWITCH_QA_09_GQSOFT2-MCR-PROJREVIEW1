@@ -8,7 +8,9 @@
 
 <hr>
 
-# **Overview:**
+# GQSOFT2 - MODERN CODE REVIEW
+
+## **Overview:**
 
 * This project will serve as a vault for all content produced (algorythms/ scripts & documentation) in the course of the GQSOFT2 laborarial practice.
 
@@ -22,15 +24,13 @@
 
 >* Code Style: "**Prettier**" (Opinioned Code Formatter)
 
-
-
 <br>
 
-# [**1. Lab Instructions:**](/docs/pdf/Switch-QA-GQS2-PL-MCReviews.pdf)
+## [**1. Lab Instructions:**](/docs/pdf/Switch-QA-GQS2-PL-MCReviews.pdf)
 
-# [**2. Prettier**](/docs/aux-docs/docs/prettier.md)
+## [**2. Prettier**](/docs/aux-docs/docs/prettier.md)
 
-# **3. <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#example-of-a-codeowners-file">CODEOWNERS file</a>**
+## [3. CODEOWNERS file](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#example-of-a-codeowners-file)
 
 <br>
 <p align="center">&lt;&lt;&lt;&copy;<a href="https://github.com/sandroffdsantos" target="blank">Sandro Santos</a>&gt;&gt;&gt;</p>
