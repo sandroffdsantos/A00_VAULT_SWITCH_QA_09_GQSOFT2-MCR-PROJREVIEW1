@@ -1,6 +1,8 @@
 export class TaxesCalculation {
-  public calculateTaxGB(): number {    // ...
-        return 1;  }
+  public calculateTaxGB(): number {
+    // ...
+    return 1;
+  }
   public calculateTaxUSA(): number {
     // ...
     return 2;
