@@ -3,6 +3,11 @@ export class TaxesCalculation {
     // ...
     return 1;
   }
+
+
+
+
+  
   public calculateTaxUSA(): number {
     // ...
     return 2;
