@@ -1,4 +1,4 @@
-module.exports={
-    "roots":["src"],
-    "transform": {"^.+\\.(ts|tsx)?$": "ts-jest"},
-}
+module.exports = {
+  roots: ["src"],
+  transform: { "^.+\\.(ts|tsx)?$": "ts-jest" },
+};
