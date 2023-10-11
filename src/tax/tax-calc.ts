@@ -5,8 +5,13 @@ export class TaxesCalculation {
   }
   public calculateTaxUSA(): number {
     // ...
-    return 2;
-  }
+    return 2;}
+
+
+
+
+
+    
   public calculateTaxPT(): number {
     // ...
     return 3;
