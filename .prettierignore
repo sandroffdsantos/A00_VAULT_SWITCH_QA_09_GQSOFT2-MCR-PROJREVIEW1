@@ -1,0 +1,4 @@
+# Ignore all files with a specific name with the EXCEPTION of ".js" & ".ts" files
+
+!*.js
+!*.ts
