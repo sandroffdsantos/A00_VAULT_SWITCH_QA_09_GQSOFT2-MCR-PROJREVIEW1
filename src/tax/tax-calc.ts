@@ -4,19 +4,11 @@ export class TaxesCalculation {
     return 1;
   }
 
-
-
-
-
   public calculateTaxUSA(): number {
     // ...
     return 2;
   }
 
-
-
-
-  
   public calculateTaxPT(): number {
     // ...
     return 3;
