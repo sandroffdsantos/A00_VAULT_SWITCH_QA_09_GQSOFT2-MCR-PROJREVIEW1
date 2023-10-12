@@ -63,37 +63,13 @@ foo(
 
 ## **Installation**
 
-### 1. Install VS Code Extension "Prettier - Code formatter".
-
-* **Source:** <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">VS Code Marketplace - Prettier Code formatter</a>
-
-* **Source:** <a href="https://www.npmjs.com/package/prettier">npm - Prettier</a>
-
-<br>
-
-### 2. Install Prettier locally in your project:
-
-####  2.1 For latest stable version of Prettier:
+* (Via npm) First, install Prettier locally:
 
 ````bash
 npm install --save-dev --save-exact prettier
 ````
 
 <br>
-
-####  2.2 Install specific version of Prettier:
-
-* **Example:** Install Prettier version 2.6.0
-
->* npm install prettier@2.6.0 --save-dev
-
-````bash
-npm install prettier@<prettier version> --save-dev
-````
-
-<br>
-
-## 3. Config file
 
 * Then, create an empty config file to let editors and other tools know you are using Prettier:
 
@@ -102,8 +78,6 @@ node --eval "fs.writeFileSync('.prettierrc','{}\n')"
 ````
 
 <br>
-
-## 4. Add a .prettierignore file
 
 * Next, create a **.prettierignore** file to let the Prettier CLI and editors know which files to not format. Here’s an example:
 
@@ -115,23 +89,10 @@ coverage
 ````
 <br>
 
-#### 4.1 **Tip!**
+#### **Tip!**
 
-* Base your .prettierignore on .gitignore and .eslintignore (if you have one).
-
-* You can actually pass a flag to your prettier command --ignore-path and then give it the path of your .gitignore file so it will use that instead of the .prettierignore file.
-
-````bash
-prettier --ignore-path .gitignore
-````
-
-* Another tip! If your project isn’t ready to format, say, HTML files yet, add *.html.
-
-<br>
-
-## 5. Format your code!
-
-### 5.1 "npx prettier. --write"
+    - Base your .prettierignore on .gitignore and .eslintignore (if you have one).
+    - Another tip! If your project isn’t ready to format, say, HTML files yet, add *.html.
 
 * Now, format all files with Prettier (Via npm):
     
@@ -147,10 +108,6 @@ npx prettier . --write
 
 * If you have a CI setup, run the following as part of it to make sure that everyone runs Prettier. This avoids merge conflicts and other collaboration issues!
 
-<br>
-
-### 5.2 "npx prettier. --check"
-
 ````bash
 npx prettier . --check
 ````
@@ -159,7 +116,7 @@ npx prettier . --check
 
 <br>
 
-## 6. **Set up your editor:**
+### **Set up your editor:**
 
 * Formatting from the command line is a good way to get started, but you get the most from Prettier by running it from your editor, either via a keyboard shortcut or automatically whenever you save a file. When a line has gotten so long while coding that it won’t fit your screen, just hit a key and watch it magically be wrapped into multiple lines! Or when you paste some code and the indentation gets all messed up, let Prettier fix it up for you without leaving your editor.
 
@@ -173,15 +130,13 @@ npx prettier . --check
 
 <br>
 
-### 6.1 **ESLint (and other linters)** 
+### **ESLint (and other linters)** 
 
 * If you use ESLint, install eslint-config-prettier to make ESLint and Prettier play nice with each other. It turns off all ESLint rules that are unnecessary or might conflict with Prettier. There’s a similar config for Stylelint: stylelint-config-prettier
 
 * (See Prettier vs. Linters to learn more about formatting vs linting, Integrating with Linters for more in-depth information on configuring your linters, and Related projects for even more integration possibilities, if needed.)
 
-<br>
-
-### 6.2 **Git hooks**
+### **Git hooks**
 
 * In addition to running Prettier from the command line (<code>prettier --write</code>), checking formatting in CI, and running Prettier from your editor, many people like to run Prettier as a pre-commit hook as well. 
 
@@ -191,7 +146,7 @@ npx prettier . --check
 
 <br>
 
-#### 6.2.1. Install husky and lint-staged (Via npm):
+#### 1. Install husky and lint-staged (Via npm):
 
 ````bash
 npm install --save-dev husky lint-staged
@@ -200,7 +155,7 @@ npm pkg set scripts.prepare="husky install"
 npx husky add .husky/pre-commit "npx lint-staged"
 ````
 
-#### 6.2.2. Add the following to your package.json:
+#### 2. Add the following to your package.json:
 
 ````bash
 {
@@ -235,16 +190,6 @@ npx husky add .husky/pre-commit "npx lint-staged"
 <br>
 
 **Source:** <a href="https://prettier.io/">Prettier - Home Page</a>
-
-**Source:** <a href="https://prettier.io/docs/en/install">Prettier - Installation</a>
-
-**Source:** <a href="https://prettier.io/docs/en/precommit">Prettier - Pre-commit Hook</a>
-
-**Source:** <a href="https://prettier.io/docs/en/prettier-vscode">Prettier - VS Code Editor Integration</a>
-
-**Source:** <a href="https://prettier.io/docs/en/cli.html#list-different">Prettier - CLI</a>
-
-**Source:** <a href="https://prettier.io/docs/en/options.html#end-of-line">Prettier - Format Options</a>
 
 <br>
 <br>
