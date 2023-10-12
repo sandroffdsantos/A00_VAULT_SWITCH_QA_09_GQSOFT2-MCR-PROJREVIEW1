@@ -12,17 +12,17 @@
 
 ## **Overview:**
 
-* This project will serve as a vault for all content produced (algorythms/ scripts & documentation) in the course of the GQSOFT2 laborarial practice.
+- This project will serve as a vault for all content produced (algorythms/ scripts & documentation) in the course of the GQSOFT2 laborarial practice.
 
-* This project targets the application of **Modern Code Review** principles tought in the course of GQSOFT2:
+- This project targets the application of **Modern Code Review** principles tought in the course of GQSOFT2:
 
->* Pull Requests via Github
+> - Pull Requests via Github
 
->* Code Reviews request via Github
+> - Code Reviews request via Github
 
->* Automation of Code Review Process via "**CODEOWNERS**" file in a ".github" folder.
+> - Automation of Code Review Process via "**CODEOWNERS**" file in a ".github" folder.
 
->* Code Style: "**Prettier**" (Opinioned Code Formatter)
+> - Code Style: "**Prettier**" (Opinioned Code Formatter)
 
 <br>
 
