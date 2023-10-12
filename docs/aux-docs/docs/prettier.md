@@ -242,7 +242,7 @@ npx husky add .husky/pre-commit "npx lint-staged"
 
 **Source:** <a href="https://prettier.io/docs/en/precommit">Prettier - Pre-commit Hook</a>
 
-**Source:** <a href="https://prettier.io/docs/en/prettier-vscode">Prettier - VS Code Editor Integration</a>
+**Source:** <a href="https://prettier.io/docs/en/editors">Prettier - VS Code Editor Integration</a>
 
 **Source:** <a href="https://prettier.io/docs/en/cli.html#list-different">Prettier - CLI</a>
 
