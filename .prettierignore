@@ -1,0 +1,8 @@
+.github/
+.husky/
+coverage/
+node_modules/
+docs/
+.gitignore
+*.md
+*.json
