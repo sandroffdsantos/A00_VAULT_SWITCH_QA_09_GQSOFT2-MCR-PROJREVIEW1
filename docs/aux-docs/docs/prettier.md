@@ -104,9 +104,9 @@ node --eval "fs.writeFileSync('.prettierrc','{}\n')"
 
 <br>
 
-## 4. Add a .prettierignore file
-
 - Next, create a **.prettierignore** file to let the Prettier CLI and editors know which files to not format. Here’s an example:
+
+* Next, create a **.prettierignore** file to let the Prettier CLI and editors know which files to not format. Here’s an example:
 
 ```bash
 # Ignore artifacts:
@@ -117,7 +117,7 @@ coverage
 
 <br>
 
-#### 4.1 **Tip!**
+#### **Tip!**
 
 - Base your .prettierignore on .gitignore and .eslintignore (if you have one).
 
@@ -161,7 +161,7 @@ npx prettier . --check
 
 <br>
 
-## 6. **Set up your editor:**
+### **Set up your editor:**
 
 - Formatting from the command line is a good way to get started, but you get the most from Prettier by running it from your editor, either via a keyboard shortcut or automatically whenever you save a file. When a line has gotten so long while coding that it won’t fit your screen, just hit a key and watch it magically be wrapped into multiple lines! Or when you paste some code and the indentation gets all messed up, let Prettier fix it up for you without leaving your editor.
 
@@ -181,19 +181,19 @@ npx prettier . --check
 
 - (See Prettier vs. Linters to learn more about formatting vs linting, Integrating with Linters for more in-depth information on configuring your linters, and Related projects for even more integration possibilities, if needed.)
 
-<br>
-
-### 6.2 **Git hooks**
+### **Git hooks**
 
 - In addition to running Prettier from the command line (<code>prettier --write</code>), checking formatting in CI, and running Prettier from your editor, many people like to run Prettier as a pre-commit hook as well.
 
 - This makes sure all your commits are formatted, without having to wait for your CI build to finish.
 
+* This makes sure all your commits are formatted, without having to wait for your CI build to finish.
+
 - For example, you can do the following to have Prettier run before each commit:
 
 <br>
 
-#### 6.2.1. Install husky and lint-staged (Via npm):
+#### 1. Install husky and lint-staged (Via npm):
 
 ```bash
 npm install --save-dev husky lint-staged
@@ -202,7 +202,7 @@ npm pkg set scripts.prepare="husky install"
 npx husky add .husky/pre-commit "npx lint-staged"
 ```
 
-#### 6.2.2. Add the following to your package.json:
+#### 2. Add the following to your package.json:
 
 ```bash
 {
@@ -237,16 +237,6 @@ npx husky add .husky/pre-commit "npx lint-staged"
 <br>
 
 **Source:** <a href="https://prettier.io/">Prettier - Home Page</a>
-
-**Source:** <a href="https://prettier.io/docs/en/install">Prettier - Installation</a>
-
-**Source:** <a href="https://prettier.io/docs/en/precommit">Prettier - Pre-commit Hook</a>
-
-**Source:** <a href="https://prettier.io/docs/en/prettier-vscode">Prettier - VS Code Editor Integration</a>
-
-**Source:** <a href="https://prettier.io/docs/en/cli.html#list-different">Prettier - CLI</a>
-
-**Source:** <a href="https://prettier.io/docs/en/options.html#end-of-line">Prettier - Format Options</a>
 
 <br>
 <br>
