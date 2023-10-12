@@ -7,12 +7,7 @@
     "start": "tsc && node dist/index.js",
     "startWhatching": "tsc-watch --onsuccess \"node dist/index.js\"",
     "test": "jest --coverage --coverageReporters=\"text\" --coverageReporters=\"html\" --coverageReporters=\"json\"",
-    "test-watch": "jest --watchAll",
-    "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}",
-    "prepare": "husky install"
-  },
-  "lint-staged": {
-    "**/*": "prettier --write --ignore-unknown"
+    "test-watch": "jest --watchAll"
   },
   "keywords": [],
   "author": "acs",
@@ -20,12 +15,10 @@
   "devDependencies": {
     "@types/jest": "^29.5.5",
     "@types/node": "^20.6.3",
-    "husky": "^8.0.3",
     "jest": "^26.6.3",
     "jest-html-reporter": "^3.10.2",
     "jest-html-reporters": "^3.1.4",
     "jest-junit": "^16.0.0",
-    "prettier": "^2.6.0",
     "ts-jest": "^26.5.6",
     "ts-node": "^10.9.1",
     "tsc-watch": "^4.2.9",
