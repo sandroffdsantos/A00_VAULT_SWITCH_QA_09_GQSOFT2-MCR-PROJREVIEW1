@@ -1,0 +1,10 @@
+.github/
+.vscode/
+docs
+node_modules
+*.js
+*.json
+*.md 
+.gitignore
+.prettierignore
+.prettierrc
