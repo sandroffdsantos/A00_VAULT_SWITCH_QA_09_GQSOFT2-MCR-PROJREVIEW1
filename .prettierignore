@@ -1,6 +1,7 @@
 #Flagged .gitignore file (script on package.json)
 # Ignore Folder:
 .github/
+.husky/
 .vscode/
 docs/
 # Ignore Specific Files
