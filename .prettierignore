@@ -7,10 +7,15 @@ docs/
 .gitignore
 .prettierignore
 .prettierrc
+jest.config.js
 # Ignore File Formats with exception of TypeScript & React
-*.js
 *.json
 *.md 
+|*.js
 !*.ts
 !*.tsx
+!*.jsx
+!*.css
+|*.html
+
 
