@@ -265,11 +265,11 @@ npx husky add .husky/pre-commit "npx lint-staged"
 
 ## **Video Tutorials - Prettier / Husky / Lint-staged Set-up:**
 
-1. <a href="https://www.youtube.com/watch?v=THCtQ7CkV1g">Code Made Simple - How to fail fast with Husky - npm git commit hooks</a>
+1. **<a href="https://www.youtube.com/watch?v=THCtQ7CkV1g">Code Made Simple - How to fail fast with Husky - npm git commit hooks</a>**
 
 2. <a href="https://www.youtube.com/watch?v=DqfQ4DPnRqI">Web Dev Simplified - How To Setup Prettier</a>
 
-3. <a href="https://www.youtube.com/watch?v=_ssKvmZqSnk">Monsterlessons Akademy - Lint Staged With Husky for Pre-commit Validations</a>
+3. **<a href="https://www.youtube.com/watch?v=_ssKvmZqSnk">Monsterlessons Akademy - Lint Staged With Husky for Pre-commit Validations</a>**
 
 4. <a href="https://www.youtube.com/watch?v=182_X9iqCqo">Automate Code Formatting with Pre-commit Hooks: Husky, lint-staged & Prettier</a>
 
