@@ -12,7 +12,7 @@
     "prettier": "--ignore-path .gitignore"
   },
   "lint-staged": {
-    "*": "your-cmd"
+    "prettier": "prettier --write"
   },
   "keywords": [],
   "author": "acs",
