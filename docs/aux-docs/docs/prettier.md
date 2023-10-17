@@ -236,17 +236,48 @@ npx husky add .husky/pre-commit "npx lint-staged"
 
 <br>
 
-**Source:** <a href="https://prettier.io/">Prettier - Home Page</a>
+## **Sources:**
 
-**Source:** <a href="https://prettier.io/docs/en/install">Prettier - Installation</a>
+1. **Source:** <a href="https://prettier.io/">Prettier - Home Page</a>
 
-**Source:** <a href="https://prettier.io/docs/en/precommit">Prettier - Pre-commit Hook</a>
+2. **Source:** <a href="https://prettier.io/docs/en/">Prettier - What is Prettier?</a>
 
-**Source:** <a href="https://prettier.io/docs/en/editors">Prettier - VS Code Editor Integration</a>
+3. **Source:** <a href="https://prettier.io/docs/en/editors">Prettier - VS Code Editor Integration</a>
 
-**Source:** <a href="https://prettier.io/docs/en/cli.html#list-different">Prettier - CLI</a>
+4. **Source:** <a href="https://prettier.io/docs/en/install">Prettier - Installation</a>
 
-**Source:** <a href="https://prettier.io/docs/en/options.html#end-of-line">Prettier - Format Options</a>
+5. **Source:** <a href="https://prettier.io/docs/en/options">Prettier - Format Options</a>
+
+6. **Source:** <a href="https://prettier.io/docs/en/ignore">Prettier - Ignoring Code</a>
+
+7. **Source:** <a href="https://stackoverflow.com/questions/65635648/how-can-i-base-a-prettierignore-file-on-gitignore">How can I base a .prettierignore file on .gitignore? - Stack Overflow</a>
+
+8. **Source:** <a href="https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code#step-2-formatting-code-on-save">Prettier - Format on Save</a>
+
+9. **Source:** <a href="https://prettier.io/docs/en/watching-files">Prettier - Format on Change</a>
+
+10. **Source:** <a href="https://prettier.io/docs/en/precommit">Prettier - Pre-commit Hook</a>
+
+11. **Source:** <a href="https://prettier.io/docs/en/cli.html#list-different">Prettier - CLI</a>
+
+<br>
+
+
+## **Video Tutorials - Prettier / Husky / Lint-staged Set-up:**
+
+1. <a href="https://www.youtube.com/watch?v=THCtQ7CkV1g">Code Made Simple - How to fail fast with Husky - npm git commit hooks</a>
+
+2. <a href="https://www.youtube.com/watch?v=DqfQ4DPnRqI">Web Dev Simplified - How To Setup Prettier</a>
+
+3. <a href="https://www.youtube.com/watch?v=_ssKvmZqSnk">Monsterlessons Akademy - Lint Staged With Husky for Pre-commit Validations</a>
+
+4. <a href="https://www.youtube.com/watch?v=182_X9iqCqo">Automate Code Formatting with Pre-commit Hooks: Husky, lint-staged & Prettier</a>
+
+5. <a href="https://www.youtube.com/watch?v=8k-b-7rJAeU">Kevin Powell - Formatting your code is a waste of time - use Prettier instead</a>
+
+6. <a href="https://www.youtube.com/watch?v=-qHA6zbOdLc">Git hooks with Husky - No bad commits any more</a>
+
+7. <a href="https://www.youtube.com/watch?v=ChKBhmsnXKI">JavaScript Talks - React Course - Ep 1.1 - Setup Prettier</a>
 
 <br>
 <br>
