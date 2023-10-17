@@ -15,5 +15,7 @@
         "files": ["*.html", "src/*.ts"],
         "options": { "tabWidth": 4 }
       }
-    ]
-  }
+    ],
+    "insertPragma": true
+
+}
