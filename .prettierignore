@@ -1,11 +1,16 @@
+# Ignore Folder:
 .github/
 .vscode/
-docs
-node_modules
-*.js
-*.json
-*.md 
+docs/
+node_modules/
+# Ignore Specific Files
 .gitignore
 .prettierignore
 .prettierrc
+# Ignore File Formats with exception of TypeScript & React
+*.js
+*.json
+*.md 
+!*.ts
+!*.tsx
 
