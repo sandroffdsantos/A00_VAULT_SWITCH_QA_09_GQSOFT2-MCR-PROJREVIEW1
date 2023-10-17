@@ -1,8 +1,8 @@
+#Flagged .gitignore file (script on package.json)
 # Ignore Folder:
 .github/
 .vscode/
 docs/
-node_modules/
 # Ignore Specific Files
 .gitignore
 .prettierignore
