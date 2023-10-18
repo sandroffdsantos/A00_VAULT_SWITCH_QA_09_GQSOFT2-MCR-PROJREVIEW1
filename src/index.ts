@@ -10,6 +10,9 @@ let printMessage = (msg: string): void => console.log(`Mensagem: ${msg}`);
 
 
 
+                        
+
+
                         printMessage(msg);
 
 let list: number[] = [1, 2, 3, 4];
