@@ -5,7 +5,12 @@ import { sumOnly } from "./domain/calc";
 let printMessage = (msg: string): void => console.log(`Mensagem: ${msg}`);
 
                         let msg = "Olá Switch-QA";
-printMessage(msg);
+
+
+
+
+
+                        printMessage(msg);
 
 let list: number[] = [1, 2, 3, 4];
 
