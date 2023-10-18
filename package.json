@@ -11,9 +11,6 @@
     "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}",
     "prettier": "--ignore-path .gitignore"
   },
-  "lint-staged": {
-    "prettier": "prettier --write"
-  },
   "keywords": [],
   "author": "acs",
   "license": "ISC",
@@ -24,7 +21,6 @@
     "jest-html-reporter": "^3.10.2",
     "jest-html-reporters": "^3.1.4",
     "jest-junit": "^16.0.0",
-    "lint-staged": "^15.0.1",
     "prettier": "^2.6.0",
     "ts-jest": "^26.5.6",
     "ts-node": "^10.9.1",
