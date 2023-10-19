@@ -10,20 +10,7 @@
 
                 let list: number[] = [1, 2, 3, 4];
 
-<<<<<<< HEAD
                 let total = sumOnly(...list);
-=======
-
-
-                        
-
-
-                        printMessage(msg);
-
-let list: number[] = [1, 2, 3, 4];
-
-let total = sumOnly(...list);
->>>>>>> 4978e40 (test pre-commit hook)
 printMessage(total.toString());
 
 // student one: please replace by console.log

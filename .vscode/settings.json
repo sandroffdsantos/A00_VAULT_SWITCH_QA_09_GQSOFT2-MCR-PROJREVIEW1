@@ -1,6 +1,6 @@
 {
     "editor.formatOnSave": false,
-    "editor.formatOnChange": true,
+    "editor.formatOnChange": false,
     "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode",
     "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
