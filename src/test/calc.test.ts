@@ -1,3 +1,5 @@
+/** @format */
+
 import { sumOnly } from "../domain/calc";
 
 test("verifica resultado", () => {
