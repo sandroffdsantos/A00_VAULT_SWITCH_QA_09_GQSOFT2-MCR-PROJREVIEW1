@@ -6,7 +6,8 @@
 
 </h4>
 
-# **Pre-commit Hook**
+<!--
+ **Pre-commit Hook**
 
 ## PRETTIER - SET UP
 
@@ -260,4 +261,4 @@ CLI git commit - "Pre-commit Hook trial"
 
 
 
-
+-->
