@@ -1,40 +1,52 @@
+<h1 align="Center">Pre-Commit Hook (Husky + lint-staged)</h1>
 
+<h4 align="center">
 
-PRETTIER - SET UP
+![prettier+husky+lint-staged](../../img/prettiere-husky-lint-staged.PNG)
+
+</h4>
+
+# **Pre-commit Hook**
+
+## PRETTIER - SET UP
+
 Index (Official Sources):
-	1. Prettier · Opinionated Code Formatter
-	2. What is Prettier? · Prettier
-	3. Editor Integration · Prettier
-	4. Install · Prettier
-	5. Options · Prettier
-	6. Ignoring Code · Prettier
-		1. javascript - How can I base a .prettierignore file on .gitignore? - Stack Overflow
-	7. https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code#step-2-formatting-code-on-save
-	8. Watching For Changes · Prettier
-	9. Pre-commit Hook · Prettier
-	10. CLI · Prettier
+
+1. Prettier · Opinionated Code Formatter
+2. What is Prettier? · Prettier
+3. Editor Integration · Prettier
+4. Install · Prettier
+5. Options · Prettier
+6. Ignoring Code · Prettier
+1. javascript - How can I base a .prettierignore file on .gitignore? - Stack Overflow
+7. https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code#step-2-formatting-code-on-save
+8. Watching For Changes · Prettier
+9. Pre-commit Hook · Prettier
+10. CLI · Prettier
 
 Video Tutorials - Prettier - Husky Lint-staged Set up:
-	1. Code Made Simple - How to fail fast with Husky - npm git commit hooks
-		- url: https://www.youtube.com/watch?v=THCtQ7CkV1g
-	2. Web Dev Simplified - How To Setup Prettier
-		- url: https://www.youtube.com/watch?v=DqfQ4DPnRqI
-	3. Monsterlessons Akademy - Lint Staged With Husky for Pre-commit Validations
-		- url: https://www.youtube.com/watch?v=_ssKvmZqSnk
-	4. Automate Code Formatting with Pre-commit Hooks: Husky, lint-staged & Prettier
-		- https://www.youtube.com/watch?v=182_X9iqCqo
-	5. Kevin Powell - Formatting your code is a waste of time - use Prettier instead
-		- url: https://www.youtube.com/watch?v=8k-b-7rJAeU
-	6. Git hooks with Husky - No bad commits any more
-		- url: https://www.youtube.com/watch?v=-qHA6zbOdLc
-	7. JavaScript Talks - React Course - Ep 1.1 - Setup Prettier
-		- url: https://www.youtube.com/watch?v=ChKBhmsnXKI
+1. Code Made Simple - How to fail fast with Husky - npm git commit hooks
+url: https://www.youtube.com/watch?v=THCtQ7CkV1g
+2. Web Dev Simplified - How To Setup Prettier
+url: https://www.youtube.com/watch?v=DqfQ4DPnRqI
+3. Monsterlessons Akademy - Lint Staged With Husky for Pre-commit Validations
+url: https://www.youtube.com/watch?v=_ssKvmZqSnk
+4. Automate Code Formatting with Pre-commit Hooks: Husky, lint-staged & Prettier
+https://www.youtube.com/watch?v=182_X9iqCqo
+5. Kevin Powell - Formatting your code is a waste of time - use Prettier instead
+url: https://www.youtube.com/watch?v=8k-b-7rJAeU
+6. Git hooks with Husky - No bad commits any more
+url: https://www.youtube.com/watch?v=-qHA6zbOdLc
+7. JavaScript Talks - React Course - Ep 1.1 - Setup Prettier
+url: https://www.youtube.com/watch?v=ChKBhmsnXKI
 
-Prettier Set-up
-1 - Prettier Extension installation:
+
+## Prettier Set-up
+
+### 1 - Prettier Extension installation:
 url: Editor Integration · Prettier
 
-2 - Prettier installation:
+### 2 - Prettier installation:
 url: Install · Prettier
 
 2.1 - Prettier locally installation as a dev dependency (last version)
