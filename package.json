@@ -10,13 +10,7 @@
     "test-watch": "jest --watchAll",
     "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}",
     "prettier": "--ignore-path .gitignore",
-    "precommit": "lint-staged",
-    "prepare": "husky install"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run precommit"
-    }
+    "precommit": "lint-staged"
   },
   "lint-staged": {
     "src/**/*.{ts,tsx,js,jsx,css,scss,html}": [
@@ -29,7 +23,6 @@
   "devDependencies": {
     "@types/jest": "^29.5.5",
     "@types/node": "^20.6.3",
-    "husky": "^8.0.0",
     "jest": "^26.6.3",
     "jest-html-reporter": "^3.10.2",
     "jest-html-reporters": "^3.1.4",
