@@ -12,7 +12,7 @@
     "prettier": "--ignore-path .gitignore",
     "precommit": "lint-staged",
     "prepare": "husky install",
-    "typedoc": "npx run typedoc"
+    "typedoc": "npx typedoc"
   },
   "lint-staged": {
     "src/**/*.{ts,tsx}": [

@@ -1,6 +1,10 @@
 /** @format */
 
 import { sumOnly } from "./domain/calc";
+/**
+ * Prints a message to the console.
+ * @param msg - The message to be printed.
+ */
 let printMessage = (msg: string): void => console.log(`Mensagem: ${msg}`);
 let msg = "Olá Switch-QA";
 printMessage(msg);
