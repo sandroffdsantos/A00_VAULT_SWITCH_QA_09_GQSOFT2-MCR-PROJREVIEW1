@@ -11,10 +11,11 @@
     "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}",
     "prettier": "--ignore-path .gitignore",
     "precommit": "lint-staged",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "typedoc": "npx run typedoc"
   },
   "lint-staged": {
-    "src/**/*.{ts,tsx,js,jsx,css,scss,html}": [
+    "src/**/*.{ts,tsx}": [
       "prettier --write"
     ]
   },
@@ -34,6 +35,7 @@
     "ts-jest": "^26.5.6",
     "ts-node": "^10.9.1",
     "tsc-watch": "^4.2.9",
+    "typedoc": "^0.25.3",
     "typescript": "^4.9.5"
   }
 }
