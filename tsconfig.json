@@ -7,8 +7,18 @@
         "module": "CommonJS"
     },
     "typedocOptions": {
-        "entryPoints": ["./src"],
-        "out": "TypeDoc"
-      }
-
+        "entryPoints": ["./src/**/*"],
+        "theme": "default",
+        "out": "./TypeDoc"
+      },
+      "include": [
+        "src/*.ts",
+        "src/**/*.ts",
+        "src/**/*.js"
+      ],
+      "exclude": [
+        "node_modules",
+        "src/**/*.spec.ts",
+        "src/**/*.spec.js"
+      ]
 }
