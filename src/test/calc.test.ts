@@ -68,3 +68,5 @@ describe("TC002 - Test the CarProps class", () => {
     expect(actual).toBe(expected);
   });
 });
+
+export default { test };

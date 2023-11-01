@@ -15,10 +15,12 @@
     "typedoc": "npx typedoc"
   },
   "lint-staged": {
-    "src/**/*.{ts,tsx}": [
+    "src/**/*.{ts,tsx, js, jsx}": [
       "prettier --write"
     ],
-    "src/**/*": "npx typedoc"
+    "public/**/*.{ts,tsx, js, jsx}": [
+      "prettier --write"
+    ]
   },
   "keywords": [],
   "author": "acs",
