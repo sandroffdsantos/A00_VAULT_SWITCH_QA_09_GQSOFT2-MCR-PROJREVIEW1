@@ -11,23 +11,29 @@
 let numberOne;
 let numberTwo;
 
-
-
-
 /**
  * Function that calculates the product of two numbers
  * @param {*} numberOne
  * @param {*} numberTwo
  * @returns
  */
-export const prodFunc = (numberOne, numberTwo) => {
+
+
+
+
+            export const prodFunc = (numberOne, numberTwo) => {
+
+
+
+
+
   // Arrange
   let prod;
 
   // Act
   prod = numberOne * numberTwo;
-  // Assert
-  console.log(prod); return sum;
+    // Assert  console.log(prod);
+  return sum;
 };
 
 prodFunc(2, 5);
