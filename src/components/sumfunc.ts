@@ -1,6 +1,6 @@
 /**
  * @format
- * @remarks This file is intended to be used for development of algorythms
+ * @remarks This file is intended to be used for development of algorythms to return the sum of two numbers
  */
 
 /**
