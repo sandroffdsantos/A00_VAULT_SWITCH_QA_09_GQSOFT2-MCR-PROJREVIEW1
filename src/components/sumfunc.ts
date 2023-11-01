@@ -1,6 +1,6 @@
 /**
  * @format
- * @remarks This file is intended to be used for development of algorythms
+ * @remarks This file is intended to be used for development of the algorythm for the sum of two numbers
  */
 
 /**
@@ -19,14 +19,9 @@ let numberTwo: number;
  */
 export function sumOnly(numberOne: number, numberTwo: number): number {
   // Arrange
-  let sum: number;
-
-  // Act
-  sum = numberOne + numberTwo;
-
+  let sum: number; // Act  sum = numberOne + numberTwo;
   // Assert
   console.log(sum);
   return sum;
 }
-
 sumOnly(2, 5);
