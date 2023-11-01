@@ -11,6 +11,9 @@
 let numberOne;
 let numberTwo;
 
+
+
+
 /**
  * Function that calculates the product of two numbers
  * @param {*} numberOne
