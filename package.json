@@ -18,7 +18,7 @@
     "src/**/*.{ts,tsx}": [
       "prettier --write"
     ],
-    "src/**/*": "npm run typedoc"
+    "src/**/*": "npx typedoc"
   },
   "keywords": [],
   "author": "acs",

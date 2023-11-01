@@ -4,7 +4,7 @@
  */
 
 /**
- * Globally Scoped Variables
+ * Globally Scoped Variables:
  * @param numberOne
  * @param numberTwo
  */
