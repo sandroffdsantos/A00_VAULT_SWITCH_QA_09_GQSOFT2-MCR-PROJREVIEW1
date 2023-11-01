@@ -1,5 +1,5 @@
 /**
- * 
+ * @format
  * @remarks This file is intended to be used for development of algorythms
  */
 
@@ -18,25 +18,13 @@ let numberTwo;
  * @returns
  */
 
-
-
-
-
-
-
-
-            export const prodFunc = (numberOne, numberTwo) => {
-
-
-
-
-
+export const prodFunc = (numberOne, numberTwo) => {
   // Arrange
   let prod;
 
   // Act
   prod = numberOne * numberTwo;
-    // Assert  console.log(prod);
+  // Assert  console.log(prod);
   return sum;
 };
 

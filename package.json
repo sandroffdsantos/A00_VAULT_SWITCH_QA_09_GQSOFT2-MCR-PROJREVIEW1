@@ -15,10 +15,10 @@
     "typedoc": "npx typedoc"
   },
   "lint-staged": {
-    "src/**/*.{ts,tsx, js, jsx}": [
+    "src/**/*.{ts,tsx,js,jsx}": [
       "prettier --write"
     ],
-    "public/**/*.{ts,tsx, js, jsx}": [
+    "public/**/*.{ts,tsx,js,jsx}": [
       "prettier --write"
     ]
   },
