@@ -16,15 +16,9 @@
         "src/**/*.spec.ts",
         "src/**/*.spec.js"
       ],
-      "typedocOptions": {
-        "entryPoints": [
-          // Original Entry Point
-          "./src/**",
-          // Additional Entry Point
-          "./public/**/*"
-        ],
-        //"exclude": "**/*.test.ts",
-        "theme": "default",
-        "out": "./TypeDoc"
-      },
+      "typedocsOptions": {
+        "entryPoint": "./src/**",
+        "out": "./TypeDoc",
+        "excludes": "**/*.test.ts"
+      }
 }
