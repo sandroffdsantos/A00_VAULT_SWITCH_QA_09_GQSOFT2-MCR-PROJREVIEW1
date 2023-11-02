@@ -1,5 +1,5 @@
 /**
- * @format
+ *
  * @remarks This file is intended to be used for the development of the algorythm for the sum of two numbers
  */
 
@@ -10,6 +10,11 @@
  */
 let numberOne: number;
 let numberTwo: number;
+
+
+
+
+
 
 /**
  * Function that calculates the sum of two numbers
@@ -23,7 +28,20 @@ export function sumOnly(numberOne: number, numberTwo: number): number {
   // Act
   sum = numberOne + numberTwo;
   // Assert
-  console.log(sum);
+  
+  
+  
+         console.log(sum);
+
+
+
+
+
+
+
   return sum;
 }
+
+
+
 sumOnly(2, 5);
