@@ -9,7 +9,9 @@
     "test": "jest --coverage --coverageReporters=\"text\" --coverageReporters=\"html\" --coverageReporters=\"json\"",
     "test-watch": "jest --watchAll",
     "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}",
-    "prettier": "--ignore-path .gitignore"
+    "prettier": "--ignore-path .gitignore",
+    "prepare": "husky install",
+    "precommit": "lint-staged"
   },
   "lint-staged": {
     "src/**/*.{ts,tsx}": [
@@ -25,6 +27,7 @@
   "devDependencies": {
     "@types/jest": "^29.5.7",
     "@types/node": "^20.6.3",
+    "husky": "^8.0.0",
     "jest": "^26.6.3",
     "jest-html-reporter": "^3.10.2",
     "jest-html-reporters": "^3.1.4",
