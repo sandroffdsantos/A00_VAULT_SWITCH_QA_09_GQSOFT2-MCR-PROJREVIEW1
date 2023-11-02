@@ -3,6 +3,21 @@
   "editor.formatOnChange": false,
   "[typescript][typescriptreact]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "[javascript][javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "vscode.markdown-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
 
 }
