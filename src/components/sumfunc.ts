@@ -19,7 +19,9 @@ let numberTwo: number;
  */
 export function sumOnly(numberOne: number, numberTwo: number): number {
   // Arrange
-  let sum: number; // Act  sum = numberOne + numberTwo;
+  let sum: number;
+  // Act
+  sum = numberOne + numberTwo;
   // Assert
   console.log(sum);
   return sum;

@@ -1,25 +1,11 @@
 {
   "compilerOptions": {
-      "target": "ES2018",
-      "outDir": "./dist",
-      "rootDir": "./src",
-      "noEmitOnError": true,
-      "module": "CommonJS"
+    "target": "ES2018",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "noEmitOnError": true,
+    "module": "CommonJS"
   },
-  "typedocOptions": {
-      "entryPoints": ["./src/**/*"],
-      "theme": "default",
-      "out": "./TypeDoc",
-      "exclude": "**/*.test.ts"
-    },
-    "include": [
-      "src/*.ts",
-      "src/**/*.ts",
-      "src/**/*.js"
-    ],
-    "exclude": [
-      "node_modules",
-      "src/**/*.spec.ts",
-      "src/**/*.spec.js"
-    ]
+  "include": ["src/*.ts", "src/**/*.ts", "src/**/*.js"],
+  "exclude": ["node_modules", "src/**/*.spec.ts", "src/**/*.spec.js"]
 }
