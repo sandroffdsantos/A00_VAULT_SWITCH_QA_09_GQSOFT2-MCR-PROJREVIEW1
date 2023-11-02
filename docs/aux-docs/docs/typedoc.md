@@ -6,6 +6,52 @@
 
 </h4>
 
+# **SOURCES:**
+
+## **Official SOurces:**
+
+* <a href="https://typedoc.org/" target="_blank">TypeDoc - Home Page</a>
+
+* <a href="https://typedoc.org/guides/overview/" target="_blank">TypeDoc - Overview</a>
+
+* <a href="https://typedoc.org/guides/installation/" target="_blank">TypeDoc - Installation</a>
+
+* <a href="https://typedoc.org/options/" target="_blank">TypeDoc - Options</a>
+
+* <a href="https://typedoc.org/options/input/#entrypointstrategy" target="_blank">TypeDoc - Entrypoint Strategy</a>
+
+* <a href="https://typedoc.org/options/configuration/#tsconfig" target="_blank">TypeDoc - tsconfig.json</a>
+
+* <a href="https://typedoc.org/options/output/" target="_blank">TypeDoc - Output</a>
+
+* <a href="https://typedoc.org/options/comments/" target="_blank">TypeDoc - Comments</a>
+
+* <a href="https://typedoc.org/options/organization/" target="_blank">TypeDoc - Organization</a>
+
+* <a href="https://typedoc.org/options/validation/" target="_blank">TypeDoc - Validation</a>
+
+* <a href="https://typedoc.org/options/other/" target="_blank">TypeDoc - Other</a>
+
+* <a href="https://typedoc.org/guides/doccomments/" target="_blank">TypeDoc - Doc Comments</a>
+
+* <a href="https://github.com/TypeStrong/typedoc" target="_blank">TypeDoc - GitHub</a>
+
+* <a href="https://www.npmjs.com/package/typedoc">NPM - TypeDoc</a>
+
+<br>
+
+## **Video Tutorials:**
+
+* <a href="https://www.youtube.com/watch?v=La56RcRrPIo&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=11&t=2126s" target="_blank">Exploring TSDoc & TypeDoc | Typescript Documentation | Live Stream | Webdev</a>
+
+* <a href="https://www.youtube.com/watch?v=oH_-6TyxVhI&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=12" target="_blank">Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!</a>
+
+* <a href="https://www.youtube.com/watch?v=yOBG_56S7So&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=10&t=191s" target="_blank">TypeDoc Crash Course - TypeScript Documentation Generator</a>
+
+* <a href="https://www.youtube.com/watch?v=YK-GurROGIg&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=6&t=850s" target="_blank">Documenting Your JavaScript | JSDoc Crash Course</a>
+
+<br>
+
 # **TypeDoc - Code Documentation**
 
 TypeDocs

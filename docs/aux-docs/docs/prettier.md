@@ -6,6 +6,76 @@
 
 </h4>
 
+# **Sources:**
+
+https://www.youtube.com/watch?v=ZXW6Jn6or1w&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=26&t=840s
+
+https://www.youtube.com/watch?v=__eiQumLOEo&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=25&t=14s
+
+https://www.youtube.com/watch?v=fslNny60HzI&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=24
+
+https://www.youtube.com/watch?v=THCtQ7CkV1g&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=23&t=6s
+
+https://www.youtube.com/watch?v=DqfQ4DPnRqI&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=22&t=48s
+
+https://www.youtube.com/watch?v=_ssKvmZqSnk&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=21&t=404s
+
+https://www.youtube.com/watch?v=8k-b-7rJAeU&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=20&t=403s
+
+https://www.youtube.com/watch?v=kBk_367zbkQ&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=19&t=22s
+
+https://www.youtube.com/watch?v=-qHA6zbOdLc&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=18&t=15s
+
+https://www.youtube.com/watch?v=182_X9iqCqo&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=17&t=145s
+
+https://www.youtube.com/watch?v=0uW_Grx1Pc0&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=16
+
+https://www.youtube.com/watch?v=qod6E738cc4&list=PLNUYovYiu9oZmN4d2z-Mhbbf5VdMpKwwo&index=15&t=13s
+
+<br>
+
+1. **Source:** <a href="https://prettier.io/">Prettier - Home Page</a>
+
+2. **Source:** <a href="https://prettier.io/docs/en/">Prettier - What is Prettier?</a>
+
+3. **Source:** <a href="https://prettier.io/docs/en/editors">Prettier - VS Code Editor Integration</a>
+
+4. **Source:** <a href="https://prettier.io/docs/en/install">Prettier - Installation</a>
+
+5. **Source:** <a href="https://prettier.io/docs/en/options">Prettier - Format Options</a>
+
+6. **Source:** <a href="https://prettier.io/docs/en/ignore">Prettier - Ignoring Code</a>
+
+7. **Source:** <a href="https://stackoverflow.com/questions/65635648/how-can-i-base-a-prettierignore-file-on-gitignore">How can I base a .prettierignore file on .gitignore? - Stack Overflow</a>
+
+8. **Source:** <a href="https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code#step-2-formatting-code-on-save">Prettier - Format on Save</a>
+
+9. **Source:** <a href="https://prettier.io/docs/en/watching-files">Prettier - Format on Change</a>
+
+10. **Source:** <a href="https://prettier.io/docs/en/precommit">Prettier - Pre-commit Hook</a>
+
+11. **Source:** <a href="https://prettier.io/docs/en/cli.html#list-different">Prettier - CLI</a>
+
+<br>
+
+## Video Tutorials - Prettier / Husky / Lint-staged Set up:
+
+1. **<a href="https://www.youtube.com/watch?v=THCtQ7CkV1g">Code Made Simple - How to fail fast with Husky - npm git commit hooks</a>**
+
+2. <a href="https://www.youtube.com/watch?v=DqfQ4DPnRqI">Web Dev Simplified - How To Setup Prettier</a>
+
+3. **<a href="https://www.youtube.com/watch?v=_ssKvmZqSnk">Monsterlessons Akademy - Lint Staged With Husky for Pre-commit Validations</a>**
+
+4. <a href="https://www.youtube.com/watch?v=182_X9iqCqo">Automate Code Formatting with Pre-commit Hooks: Husky, lint-staged & Prettier</a>
+
+5. <a href="https://www.youtube.com/watch?v=8k-b-7rJAeU">Kevin Powell - Formatting your code is a waste of time - use Prettier instead</a>
+
+6. <a href="https://www.youtube.com/watch?v=-qHA6zbOdLc">Git hooks with Husky - No bad commits any more</a>
+
+7. <a href="https://www.youtube.com/watch?v=ChKBhmsnXKI">JavaScript Talks - React Course - Ep 1.1 - Setup Prettier</a>
+
+<br>
+
 # Prettier - Opinioned Code Formatter
 
 ## **What is Prettier?**
