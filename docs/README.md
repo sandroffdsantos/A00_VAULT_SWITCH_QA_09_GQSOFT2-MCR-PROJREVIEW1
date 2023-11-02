@@ -28,9 +28,13 @@
 
 ## [**1. Lab Instructions:**](/docs/pdf/Switch-QA-GQS2-PL-MCReviews.pdf)
 
-## [**2. Prettier**](/docs/aux-docs/docs/prettier.md)
+## [**2. CODEOWNERS file**](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#example-of-a-codeowners-file)
 
-## [**3. CODEOWNERS file**](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#example-of-a-codeowners-file)
+## [**3. Prettier**](/docs/aux-docs/docs/prettier.md)
+
+## [**4. Pre-commit Hook (Husky + lint-staged)**](/docs/aux-docs/docs/pre-commit-hook.md)
+
+## [**5. Instructions**](../docs/aux-docs/instructions.md)
 
 <br>
 <p align="center">&lt;&lt;&lt;&copy;<a href="https://github.com/sandroffdsantos" target="blank">Sandro Santos</a>&gt;&gt;&gt;</p>
