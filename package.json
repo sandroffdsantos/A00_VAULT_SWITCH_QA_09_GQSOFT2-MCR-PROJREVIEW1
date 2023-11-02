@@ -8,6 +8,7 @@
     "startWhatching": "tsc-watch --onsuccess \"node dist/index.js\"",
     "test": "jest --coverage --coverageReporters=\"text\" --coverageReporters=\"html\" --coverageReporters=\"json\"",
     "test-watch": "jest --watchAll",
+    "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}",
     "prettier": "--ignore-path .gitignore"
   },
   "keywords": [],
