@@ -1,0 +1,8 @@
+{
+   "tyedocOptions": {
+   "entryPoints": ["./src/**/*"],
+    "out": "./Typedoc",
+    "theme": "default",
+    "exclude": "*.test.ts",
+   },
+}
