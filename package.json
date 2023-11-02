@@ -11,7 +11,8 @@
     "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}",
     "prettier": "--ignore-path .gitignore",
     "prepare": "husky install",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "typedoc": "npx typedoc"
   },
   "lint-staged": {
     "src/**/*.{ts,tsx}": [
