@@ -11,6 +11,14 @@
     "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}",
     "prettier": "--ignore-path .gitignore"
   },
+  "lint-staged": {
+    "src/**/*.{ts,tsx}": [
+      "prettier --write"
+    ],
+    "public/**/*.{ts,tsx}": [
+      "prettier --write"
+    ]
+  },
   "keywords": [],
   "author": "acs",
   "license": "ISC",
