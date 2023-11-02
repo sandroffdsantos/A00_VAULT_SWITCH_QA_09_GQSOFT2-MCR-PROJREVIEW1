@@ -1,9 +1,9 @@
 {
+  "insertPragma": true,
   "trailingComma": "none",
   "semi": true,
   "singleQuote": false,
   "printWidth": 80,
-  "requirePragma": true,
   "overrides": [
     {
       "files": "*.json",
@@ -14,8 +14,8 @@
     },
     {
       "files": [
-        "src/*.ts",
-        "*src/*.tsx"
+        "*.ts",
+        "*.tsx"
       ],
       "options": {
         "tabWidth": 4

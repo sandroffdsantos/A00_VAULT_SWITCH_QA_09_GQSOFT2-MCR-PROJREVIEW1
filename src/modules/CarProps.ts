@@ -1,5 +1,5 @@
 /**
- * @format
+ * 
  * @remarks This file is intended to be used for <purpose of the file>
  */
 
@@ -14,7 +14,7 @@ export class CarProps {
    * @param price The price of the car.
    */
   constructor(
-    public brand: string,
+                public brand: string,
     public color: string,
     public price: number
   ) {}
@@ -23,7 +23,19 @@ export class CarProps {
    * Gets the brand of the car.
    * @returns The brand of the car.
    */
-  public getBrand(): string {
+            public getBrand(): string {
+    
+    
+
+
+
+    
+
+
+
+
+
+    
     return this.brand;
   }
 
