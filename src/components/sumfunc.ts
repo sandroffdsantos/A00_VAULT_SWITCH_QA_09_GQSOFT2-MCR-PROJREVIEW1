@@ -18,12 +18,15 @@ let numberTwo: number;
  * @returns sum of two numbers
  */
 export function sumOnly(numberOne: number, numberTwo: number): number {
-  // Arrange
-  let sum: number;
-  // Act
-  sum = numberOne + numberTwo;
-  // Assert
-  console.log(sum);
-  return sum;
+    // Arrange
+    let sum: number;
+    // Act
+    sum = numberOne + numberTwo;
+    // Assert
+
+    console.log(sum);
+
+    return sum;
 }
+
 sumOnly(2, 5);

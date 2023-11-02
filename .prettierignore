@@ -1,0 +1,20 @@
+#Flagged .gitignore file (script on package.json)
+# Ignore Folder:
+.github/
+.husky/
+.vscode/
+docs/
+# Ignore Specific Files
+.gitignore
+.prettierignore
+.prettierrc
+jest.config.js
+# Ignore File Formats with exception of TypeScript & React
+*.json
+*.md 
+*.js
+*.jsx
+*.css
+*.html
+!*.ts
+!*.tsx

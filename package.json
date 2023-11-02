@@ -7,18 +7,21 @@
     "start": "tsc && node dist/index.js",
     "startWhatching": "tsc-watch --onsuccess \"node dist/index.js\"",
     "test": "jest --coverage --coverageReporters=\"text\" --coverageReporters=\"html\" --coverageReporters=\"json\"",
-    "test-watch": "jest --watchAll"
+    "test-watch": "jest --watchAll",
+    "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}",
+    "prettier": "--ignore-path .gitignore"
   },
   "keywords": [],
   "author": "acs",
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "^29.5.5",
+    "@types/jest": "^29.5.7",
     "@types/node": "^20.6.3",
     "jest": "^26.6.3",
     "jest-html-reporter": "^3.10.2",
     "jest-html-reporters": "^3.1.4",
     "jest-junit": "^16.0.0",
+    "prettier": "^3.0.3",
     "ts-jest": "^26.5.6",
     "ts-node": "^10.9.1",
     "tsc-watch": "^4.2.9",
