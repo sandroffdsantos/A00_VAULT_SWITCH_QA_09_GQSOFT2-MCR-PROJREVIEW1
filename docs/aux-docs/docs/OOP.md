@@ -1,5 +1,21 @@
 # OOP
 
+* **DESOFT Lectures:**
+
+>* l04.02-typescript-objects
+
+>* l04.03-typescript-classes
+
+>* l06.01-typescript-interfaces
+
+>* l07.01-class_inheritance-abstract_class-arrow_function
+
+* **DESOFT Videos:**
+
+>* DESOFT2_AULA 3_25092023
+
+>* DESOFT2_AULA 6_02102023
+
 * <a href="http://www.tutorialspoint.com/typescript/typescript_classes.htm" target="_blank">Classes</a>
 
 * <a href="http://www.tutorialspoint.com/typescript/typescript_objects.htm" target="_blank">Objects</a>
