@@ -59,6 +59,31 @@
 * <a href="https://www.youtube.com/watch?v=GcOhCxkvxf8&list=PLNUYovYiu9obtsOO-VenadCLRxytnXtbv&index=2&t=14s">Youtube - JavaScript Objects | Classes and Objects in JavaScript | JavaScript Tutorial | Edureka Rewind</a>
 
 <br>
+<hr>
+
+https://khalilstemmler.com/articles/typescript-domain-driven-design/repository-dto-mapper/
+
+https://khalilstemmler.com/articles/domain-driven-design-intro/
+
+https://khalilstemmler.com/articles/typescript-domain-driven-design/ddd-frontend/
+
+https://khalilstemmler.com/articles/enterprise-typescript-nodejs/when-crud-mvc-isnt-enough/
+
+https://www.geeksforgeeks.org/mvc-framework-introduction/
+
+https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/
+
+https://www.codecademy.com/article/what-is-crud
+
+https://www.codecademy.com/article/what-is-rest
+
+https://khalilstemmler.com/
+
+https://khalilstemmler.com/articles/
+
+https://khalilstemmler.com/articles/object-oriented/analysis/non-functional-requirements/
+
+<br>
 <br>
 <hr>
 <p align="center">&lt;&lt;&lt;&copy;<a href="https://github.com/sandroffdsantos" target="blank">Sandro Santos</a>&gt;&gt;&gt;</p>
